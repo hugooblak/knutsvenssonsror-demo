@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Knut Svenssons Rör AB',
+	'bransch'        => 'VVS-entreprenör',
 	'telefon'        => '036-13 08 51',
 	'telefon_tel'    => '+4636130851',
 	'ort'            => 'Huskvarna',
